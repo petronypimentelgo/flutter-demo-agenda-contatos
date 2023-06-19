@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "591147417896",
+    "project_id": "fir-crud-agenda",
+    "storage_bucket": "fir-crud-agenda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591147417896:android:c7b3c930cf300c9e93d01d",
+        "android_client_info": {
+          "package_name": "com.example.contatos_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591147417896-lrbgj5s4r6qv9pcrnnecmsj3186ei9j4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contatos_2",
+            "certificate_hash": "d50951b36b6960ce9fdb75642a49be1e4ac74860"
+          }
+        },
+        {
+          "client_id": "591147417896-dhs5650q9mhd096komuvfvsqgg21s9c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDesDzNC-ZI3SNZgkV4KtSMw59t1LFKrTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591147417896-dhs5650q9mhd096komuvfvsqgg21s9c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
